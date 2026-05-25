@@ -32,7 +32,7 @@ CLI 帮助信息：
 
 启动界面：
 
-![coda start](assets/screenshots/coda-start.png)
+<img width="796" height="334" alt="image" src="https://github.com/user-attachments/assets/116d510d-920d-4129-9b80-1a8a9d8007db" />
 
 REPL 内置命令与会话路径：
 
