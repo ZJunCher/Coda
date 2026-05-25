@@ -55,8 +55,6 @@ scripts/              # 实验脚本和指标收集脚本
 assets/               # README 截图资源
 ```
 
-<img width="796" height="334" alt="image" src="https://github.com/user-attachments/assets/116d510d-920d-4129-9b80-1a8a9d8007db" />
-
 ## Installation
 
 需要 Python 3.10+。
