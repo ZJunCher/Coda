@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "coda"
 version = "0.1.0"
-description = "Small local coding agent for Ollama, OpenAI-compatible, Anthropic-compatible, and DeepSeek models"
+description = "Lightweight local coding-agent harness with controlled tools, layered memory, checkpoint/resume, and evaluation artifacts"
 requires-python = ">=3.10"
 dependencies = []
 
